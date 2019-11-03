@@ -16,7 +16,7 @@ def plot_histograms(data_frame):
     f.subplots_adjust(hspace=0.2)
     f.set_figheight(7)
     f.set_figwidth(9)
-    plt.show()
+    f.show()
 
 
 def plot_scatters(in_offs, out_of_offs, RDxline=True, label='RD'):
