@@ -23,3 +23,5 @@ I will be using this IDE during our courses.
 
 
 In case of any problems contact: marcinswiniarski20@gmail.com
+
+Google Collab: https://colab.research.google.com/drive/1Ap2YRnYfMj3OJTafO82GqsiABCmtTPyg
