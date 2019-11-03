@@ -1,7 +1,7 @@
 # Hands on Moneyball!
 
 ## Enviroment Setup
-If you do not have any IDE for formating pythom scripts
+If you do not have any IDE for formating python scripts
 I recommend to [download PyCharm Community IDE](https://www.jetbrains.com/pycharm/download/#section=windows).
 I will be using this IDE during our courses.
 
@@ -23,3 +23,5 @@ I will be using this IDE during our courses.
 
 
 In case of any problems contact: marcinswiniarski20@gmail.com
+
+Google Collab: https://colab.research.google.com/drive/1Ap2YRnYfMj3OJTafO82GqsiABCmtTPyg
